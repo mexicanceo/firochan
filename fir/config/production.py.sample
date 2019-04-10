@@ -13,9 +13,9 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'fir',
         'USER': 'fir',
-        'PASSWORD': '',
-        'HOST': '',
-        'PORT': '',
+        'PASSWORD'fir'',
+        'HOST': 'localhost',
+        'PORT': '3306',
     }
 }
 
