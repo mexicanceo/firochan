@@ -6,7 +6,7 @@ from fir.config.base import *
 ##### Change these values
 ################################################################
 
-ALLOWED_HOSTS = ['FIR.DOMAIN.COM']
+ALLOWED_HOSTS = ['*']
 
 DATABASES = {
     'default': {
